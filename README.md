@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ## Project Structure
 
 .
-├── clean_data.py # Main cleaning script
-├── requirements.txt # Python dependencies
-├── README.md # This file
-└── my_data_cleaned.csv # Example output (not included in repo)
+├── clean_data.py # Main cleaning script <br>
+├── requirements.txt # Python dependencies <br>
+├── README.md # This file <br>
+└── my_data_cleaned.csv # Example output (not included in repo) <br>
